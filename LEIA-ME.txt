@@ -1,0 +1,1 @@
+Utilizamos a biblioteca JCalendar, que se encontra na pasta Bibliotecas.
